@@ -1,0 +1,137 @@
+
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Simonds",
+    "title": "Buckle up before we sell out — here comes TechCrunch Early Stage 2023",
+    "description": "TechCrunch Early Stage 2023 kicks off on Thursday. It’s a day filled with everything early stage founders need to know to grow. Here’s what you can expect.",
+    "url": "https://techcrunch.com/2023/04/17/whats-happening-at-techcrunch-early-stage-2023/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/TC22_EarlyStage2023_1x-Evergreen-Wordpress-Post-Graphic_1200x628-1.jpg?w=1200",
+    "publishedAt": "2023-04-17T15:24:52Z",
+    "content": "The doors to TechCrunch Early Stage (Boston Edition) open in just three days, and we cannot wait to meet and greet you! If you haven’t booked your pass yet, hurry! Were running low on tickets. Seriou… [+4181 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Romain Dillet",
+    "title": "Apple launches Apple Card’s savings accounts with 4.15% interest rate",
+    "description": "Apple Card customers in the U.S. can open a savings account and earn interests starting today. When the company originally announced the new financial product back in October, Apple said that it couldn’t share what interest rate would be paid out on these acc…",
+    "url": "https://techcrunch.com/2023/04/17/apple-launches-apple-cards-savings-accounts-with-415-interest-rate/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/07/Apple-Card_hand-iPhoneXS-payment_032519.jpg?resize=1200,674",
+    "publishedAt": "2023-04-17T15:04:20Z",
+    "content": "Apple Card customers in the U.S. can open a savings account and earn interests starting today. When the company originally announced the new financial product back in October, Apple said that it coul… [+2430 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Sarah Perez",
+    "title": "Apple Watch to see its biggest software update since its 2015 debut, report says",
+    "description": "The Apple Watch’s software is due to get its biggest update since its release, according to a new report by Bloomberg’s Mark Gurman. Though details on the watchOS 10’s updated design were sparse to non-existent, the report teases Apple’s plans to introduce a …",
+    "url": "https://techcrunch.com/2023/04/17/apple-watch-to-see-its-biggest-software-update-since-its-2015-debut/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/CMC_3437.jpg?resize=1200,800",
+    "publishedAt": "2023-04-17T14:49:45Z",
+    "content": "The Apple Watch’s software is due to get its biggest update since its release, according to a new report by Bloomberg’s Mark Gurman. Though details on the watchOS 10’s updated design were sparse to n… [+3099 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Amanda Silberling",
+    "title": "Twitter adds more ‘government-funded’ labels to global news outlets",
+    "description": "Twitter is rolling out more “government-funded media” labels on the accounts of international news outlets. These include the Australian Broadcasting Company (ABC Australia), Australia’s Special Broadcasting Service (SBS), New Zealand’s public broadcaster RNZ…",
+    "url": "https://techcrunch.com/2023/04/17/twitter-adds-more-government-funded-labels-to-global-news-outlets/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/elon-owns-twitter.jpg?resize=1200,675",
+    "publishedAt": "2023-04-17T14:36:18Z",
+    "content": "Twitter is rolling out more government-funded media labels on the accounts of international news outlets. These include the Australian Broadcasting Company (ABC Australia), Australias Special Broadca… [+1677 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Lauren Forristal",
+    "title": "AMC+ plans to launch an ad-supported tier later this year",
+    "description": "AMC+ is the latest to announce an ad-supported tier, launching in October. Pricing details have yet to be announced.",
+    "url": "https://techcrunch.com/2023/04/17/amc-plans-to-launch-an-ad-supported-tier-later-this-year/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Screen-Shot-2023-04-17-at-9.52.58-AM.png?resize=1200,729",
+    "publishedAt": "2023-04-17T14:18:13Z",
+    "content": "As more media companies turn to advertising in order to boost revenue, AMC+ is the latest to announce an ad-supported version of its streaming service. Parent company AMC Networks revealed today that… [+2295 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Alex Wilhelm",
+    "title": "What's an Angry Bird worth?",
+    "description": "Hello and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines. Our Monday show covers the latest in tech news from the weekend and what’s making headlines early in the week. Today we …",
+    "url": "https://techcrunch.com/2023/04/17/whats-an-angry-bird-worth/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/equity-podcast-2019-phone.webp?w=430",
+    "publishedAt": "2023-04-17T14:10:09Z",
+    "content": "Hello and welcome back to Equity, the podcast about the business of startups, where we unpack the numbers and nuance behind the headlines.\r\nOur Monday show covers the latest in tech news from the wee… [+819 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Frederic Lardinois",
+    "title": "Adobe brings Firefly to its video tools",
+    "description": "Adobe today announced that it is bringing its Firefly generative AI tool to its Creative Cloud video services.",
+    "url": "https://techcrunch.com/2023/04/17/adobe-brings-firefly-to-its-video-tools/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Text-to-B-Roll_1.jpg?resize=1200,675",
+    "publishedAt": "2023-04-17T13:44:12Z",
+    "content": "A month ago, Adobe announcedFirefly, its entry into the generative AI game. Initially, Firefly’s focus was on generating commercially safe images, but the company is now pushing its technology beyond… [+2301 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Aria Alamalhodaei",
+    "title": "SpaceX transitions today's Starship orbital flight test to wet dress rehearsal",
+    "description": "SpaceX said today's orbital flight test of Starship would now be a wet dress rehearsal due to a technical issue.",
+    "url": "https://techcrunch.com/2023/04/17/spacex-transitions-todays-starship-orbital-flight-test-to-wet-dress-rehearsal/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/01/starship.jpeg?resize=1200,675",
+    "publishedAt": "2023-04-17T13:21:15Z",
+    "content": "SpaceX has just announced that today’s orbital flight test attempt of the Starship launch system will now be a wet dress rehearsal, due to a frozen pressure valve.\r\nThat means countdown will conclude… [+1450 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Tim De Chant",
+    "title": "Noya pivots to embrace modular direct air capture, lands $11M Series A",
+    "description": "Noya quickly adapted its technology after the Inflation Reduction Act changed the economics of carbon capture.",
+    "url": "https://techcrunch.com/2023/04/17/noya-series-a-modular-direct-air-capture/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1204733535.jpg?resize=1200,800",
+    "publishedAt": "2023-04-16T20:00:33Z",
+    "content": "Noyas pitch a few years ago was pretty straightforward: lower the cost of capturing carbon dioxide from the atmosphere by using existing industrial cooling towers, which are pretty much everywhere. N… [+1736 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Carly Page",
+    "title": "The crackdown on pixel tracking in telehealth is a warning for every startup",
+    "description": "Healthcare firms are scrambling to reassess how their websites collect user data following HHS' web-tracking crackdown — and your startup could be next.",
+    "url": "https://techcrunch.com/2023/04/17/pixel-tracking-hipaa-startups/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2013/10/alme_healthcare_files.jpg?resize=1200,673",
+    "publishedAt": "2023-04-16T01:35:53Z",
+    "content": "Healthcare startups are scrambling to reassess how their websites and apps are built, and how third parties may, inadvertently or not, be putting patients’ protected health information at risk.\r\nIn M… [+1442 chars]"
+    }
+    ]
+    }
