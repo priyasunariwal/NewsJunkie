@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# NewsJunkie
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NewsJunkie is a React.js web application that provides users with the latest news from various categories using news API integration. It features infinite scroll for a seamless news browsing experience and a user-friendly interface.
 
-## Available Scripts
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **News API Integration:** NewsJunkie fetches the latest news from a news API to provide up-to-date information to users.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Infinite Scroll:** Instead of traditional pagination, NewsJunkie uses infinite scroll, making it easy for users to keep scrolling through news articles without interruption.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Category-wise News Fetching:** Users can choose from various news categories, such as technology, sports, entertainment, and more, to customize their news feed.
 
-### `npm test`
+- **Smooth User Interface:** NewsJunkie offers a smooth and user-friendly interface, ensuring a pleasant browsing experience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+Follow these steps to set up NewsJunkie locally:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone this repository to your local machine using:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   git clone https://github.com/priyasunariwal/NewsJunkie.git
+Navigate to the project directory:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+cd NewsJunkie
+Install the required dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm install
+Create a .env file in the project root and add your News API key:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+REACT_APP_NEWS_API_KEY=your-api-key
+Replace your-api-key with your actual News API key.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Start the development server:
 
-## Learn More
+npm start
+Open your web browser and go to http://localhost:3000 to view NewsJunkie locally.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Usage:
+Here are some instructions on how to use NewsJunkie:
 
-### Code Splitting
+Choose a news category from the navigation bar.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Scroll through the news articles using the infinite scroll feature.
 
-### Analyzing the Bundle Size
+Click on a news article to read the full story.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Enjoy staying updated with the latest news!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contributing
+We welcome contributions to NewsJunkie! If you'd like to contribute, please follow these guidelines:
